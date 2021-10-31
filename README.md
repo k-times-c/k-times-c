@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle Clark
 - 👀 I’m interested in neovim, machine learning, app development, and long walks on the beach
 - 🌱 I’m currently learning ML, and computer vision
-- 💞️ I’m looking to collaborate on neovim plugins
+- 💞️ I’m looking to collaborate on neovim plugins, and computer vision projects
 - 📫 How to reach me: LinkedIn, or email (upon request)
 
 <!---
