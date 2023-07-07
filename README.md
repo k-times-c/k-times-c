@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle Clark
+- 👋 Hi, I’m Kyle Clark - Kotlin / Java Data Engineer
 - 👀 I’m interested in neovim, machine learning, app development
 - 🌱 I’m currently learning ML, and computer vision, as well as go, java/scala & spark.
 - 💞️ I’m looking to collaborate on neovim plugins, and computer vision projects
