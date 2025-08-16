@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle Clark - Data Engineer - "Fluent" in Java, Kotlin, Swift, & Python
+- 👋 Hi, I’m Kyle Clark - Senior Engineer and Tech Lead - "Fluent" in Java, Kotlin, Swift, & Python
 - 👀 I’m interested in Rust, machine learning, app development
 - 🌱 I’m currently learning ML, and computer vision, as well as go, java/scala & spark.
 - 💞️ I’m looking to collaborate on neovim plugins, and computer vision projects
